@@ -1,4 +1,4 @@
-<img src="https://github.com/auroradefence/auroradefence/blob/main/AAnu.png">
+
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML, Cyber security 
