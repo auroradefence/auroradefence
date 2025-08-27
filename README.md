@@ -3,8 +3,8 @@
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Data analytics,AI,ML,Frontend development, Cyber security 
 - 👯 I’m looking to collaborate on a data analysis related task
-- 🤔 I’m looking for help with work on data analysis  and web scrapping and automation job
-- 💬 Ask me about anything related to python
+- 🤔 I’m looking for help with work on data analysis, frontend, Machine Learning, web scrapping and automation job
+- 💬 Ask me about anything related to python, JS
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-auroradefence-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:auroradefence@gmail.com)](mailto:auroradefence@gmail.com)
 
 - ⚡**Fun fact: I’m a young, passionate programmer with a constant drive to learn.**
